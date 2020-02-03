@@ -1,0 +1,66 @@
+Shea Slade
+sds266
+11235049
+A6
+
+C:\Users\sheas\IdeaProjects\A6\spaceInvaders>git log
+commit 8d6c0bf0ae5bacc0518de9bd1cd803c30d1e2feb (HEAD -> master)
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Sat Dec 7 04:43:06 2019 -0700
+
+    added lasers ass list and fixed bugs
+
+commit 2a88208a75afce2afb7fb0848a0d2c59c90148f5
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Sat Dec 7 04:36:55 2019 -0700
+
+    added Laser repeat time and laser as list, like other variables
+
+commit 3bf5e2e458325707fabeea57b81ccc3b77526eff
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Wed Dec 4 23:44:17 2019 -0700
+
+    Working window
+
+commit f62954a7c8766d9da975b8303a5bf0407361aebb
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Wed Dec 4 18:28:26 2019 -0700
+
+    Added label for InvadersScoreF
+
+commit 4936933c262ad69eedf9114dacf7d86088667d64
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Wed Dec 4 18:00:08 2019 -0700
+
+    used methods from View to create small Jpanel in InvaderSCore to display information
+
+commit 9914e00534f577bdfdf8b6604c98c58e3214a7ad
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Wed Dec 4 01:55:39 2019 -0700
+
+    added new SCore panel in View
+
+commit 088d5a2d18c8d9e46227afdb32fd02b3655daf66
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Tue Dec 3 23:45:52 2019 -0700
+
+    added method in view
+
+commit 5ed75504e9535b87632e6bfa2d19ca9e3e54a18d
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Tue Dec 3 23:37:40 2019 -0700
+
+    removed method to View.java
+
+commit 7e0ca4df7a2d3de0a19b37e65248ab8d4b562324
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Tue Dec 3 23:31:01 2019 -0700
+
+    added method to View.java
+
+commit 73e5fdc3e272a59eec6ccfb7f6b46592ea3b9ada
+Author: Shea Slade <sheaslade@gmail.com>
+Date:   Tue Dec 3 23:18:04 2019 -0700
+
+    added new panel class
+(END)
